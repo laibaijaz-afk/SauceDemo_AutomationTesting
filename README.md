@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SauceDemo E-Commerce Automation Testing Project
 
 ## Project Overview
@@ -78,5 +77,3 @@ saucedemo-project/
     └── checkout.spec.js
 ```
 =======
-# SauceDemo_AutomationTesting
->>>>>>> 2d592355d17b961fd0462864916b6305683a417d
